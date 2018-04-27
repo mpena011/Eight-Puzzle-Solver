@@ -20,8 +20,7 @@ after that, the program will ask which method you wish to solve it.
 The method will determine the runtime and space complexity, where uniforn cost
 search is the slowest and most expensive and where A* with Manhattan Distance
 Heuristic is the fastest and least expensive. 
-
-##Output
+## Output
 The program's output will be the set of states to reach the completed state.
 Each state will have an outputted g(n) and h(n), where g(n) refers to the depth
 of the tree, or how many moves into the puzzle it is in. h(n) refers to the 
